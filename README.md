@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="https://www.jonathz.com/">
-  </iframe>
-</div>
-
 <!--
 **Jonath-z/Jonath-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
