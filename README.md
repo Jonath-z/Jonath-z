@@ -16,5 +16,8 @@ My experience with Web3 and blockchain technology has allowed me to create decen
 
 I am deeply passionate about staying up-to-date with the latest technologies and techniques in the industry, and share my insights with the community through my blog at [my portfolio](https://jonathz.com/zblog) and [dev.to](https://dev.to/jonathz)
 
+# Skills
+
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonath-z&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonath-z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jonath-z&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
