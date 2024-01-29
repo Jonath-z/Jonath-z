@@ -8,7 +8,6 @@ I'm a software developer developing impactful software solutions.
 With a focus on creating user-friendly web applications, I have worked both independently and in team settings on a variety of projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-z-0a40ab209/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.jonathz.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JonathanZihind4)
 
 
