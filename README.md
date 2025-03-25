@@ -4,7 +4,7 @@
 
 # About me
 
-I'm a software developer with experience developping web, mobile and backend application.
+I'm a software developer with experience building web, mobile and backend application.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-z-0a40ab209/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JonathanZihind4)
