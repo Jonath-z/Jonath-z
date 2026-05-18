@@ -9,6 +9,9 @@ I'm a software developer with experience building web, mobile and backend applic
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-z-0a40ab209/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JonathanZihind4)
 
+Latest Product
+- [Shwary](https://shwary.com): making money transaction as easy as saying "Hi" between DRC and East Africa
+
 Checkout my blogs:
 - [dev.to](https://dev.to/jonathz)
 - [medium](https://medium.com/@jonathanzihindula95)
