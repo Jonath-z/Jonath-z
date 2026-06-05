@@ -12,6 +12,7 @@ I'm a software developer with experience building web, mobile and backend applic
 Latest Product
 - [Shwary](https://shwary.com): making money transaction as easy as saying "Hi" between DRC and East Africa
 - [NNP Stream](https://stream.nnprdc.com): Native streaming platform for [NNP](https://nnpdrc.com)'s Productions
+- [commit-ai](https://github.com/Jonath-z/commit-ai): The one line commit generation command with your existing antropic, openai, and local models
 
 Checkout my blogs:
 - [dev.to](https://dev.to/jonathz)
